@@ -5,4 +5,11 @@
 ## FTC team 23574
 </div>
 
-*(Cool information will go here when the time comes)*
+Limelight is an Asheville-based robotics team for FTC (FIRST Tech Challenge).
+
+<div align="center">
+## Quick Links
+</div>
+
+* [Limelight Website](https://ashevillerobotics.org/limelight/)
+* [Asheville Robotics](https://ashevillerobotics.org/)
